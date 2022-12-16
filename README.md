@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming
 - 🌱 I'm at work now
 - 💞️ I always want to make friends and share knowledge with each other in the programming industry
-- 📫 How to reach me ...
+- 📫 How to reach me:
 
 🕺Can contact me via skype: https://join.skype.com/invite/o7lPkqZode4d
 
