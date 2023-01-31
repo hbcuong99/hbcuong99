@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @hbcuong
-- 👀 I’m interested in web programming
-- 🌱 I'm at work now
-- 💞️ I always want to make friends and share knowledge with each other in the programming industry
-- 📫 How to reach me:
+### WELCOME TO MY PAGE 👋👋👋
+My name is Cuong Ho.<br>
+## 📫 How to reach me: 
 
-🕺Can contact me via skype: https://join.skype.com/invite/o7lPkqZode4d
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hobiencuong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hbcuong99)
 
-<!---
-hbcuong99/hbcuong99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/hbcuong99/project-shop-laravel/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/hbcuong99/project-posts-restful-api/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+</a>
+
+<a href="https://github.com/hbcuong99/wordpress/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+</a>    
+
+
